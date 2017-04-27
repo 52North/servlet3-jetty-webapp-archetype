@@ -18,6 +18,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <scm>
+        <url>https://github.com/52North/servlet3-jetty-webapp-archetype</url>
+        <connection>scm:git:https://github.com/52North/servlet3-jetty-webapp-archetype.git</connection>
+        <developerConnection>scm:git:https://github.com/52North/servlet3-jetty-webapp-archetype.git</developerConnection>
+    </scm>
+
     <build>
         <extensions>
             <extension>
@@ -37,8 +43,4 @@
         </pluginManagement>
     </build>
 
-
-  <scm>
-    <tag>v1.0.0</tag>
-  </scm>
 </project>

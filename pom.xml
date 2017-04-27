@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>servlet3-jetty-webapp-archetype</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>maven-archetype</packaging>
 
     <name>servlet3-jetty-webapp-archetype</name>
@@ -22,7 +22,7 @@
         <url>https://github.com/52North/servlet3-jetty-webapp-archetype</url>
         <connection>scm:git:https://github.com/52North/servlet3-jetty-webapp-archetype.git</connection>
         <developerConnection>scm:git:https://github.com/52North/servlet3-jetty-webapp-archetype.git</developerConnection>
-      <tag>v1.0.0</tag>
+      <tag>v1.0.1</tag>
   </scm>
 
     <build>
